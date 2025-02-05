@@ -15,3 +15,4 @@ A lightweight programming language designed for simplicity, flexibility, and eas
 - Designed to allow rapid prototyping and easy-to-understand syntax.
 - Syntax that is simple and concise.
 - Focused on flexibility, allowing paradigms to be mixed as needed for the task at hand.
+- Can run on any system that supports c++ 14 or higher.
