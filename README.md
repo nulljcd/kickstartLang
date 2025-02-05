@@ -10,7 +10,7 @@ A lightweight programming language designed for simplicity, flexibility, and eas
 - Semantics: Reference semantics, where variables strictly store references to heap objects.
 - Memory Management: Deterministic garbage collection that impliments reference counting.
 - File Extension: .ks (Kickstart source files).
-- Influences: Inspired by JavaScript, Python, and other flexible, high-level languages.
+- Influences: Inspired by JavaScript and Python.
 ## Key Characteristics
 - Designed to allow rapid prototyping and easy-to-understand syntax.
 - Syntax that is simple and concise.
