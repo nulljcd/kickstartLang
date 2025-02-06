@@ -12,7 +12,10 @@ A lightweight programming language designed for simplicity, flexibility, and eas
 - File Extension: .ks (Kickstart source files).
 - Influences: Inspired by JavaScript and Python.
 ## Key Characteristics
-- Designed to allow rapid prototyping and easy-to-understand syntax.
+- Designed to allow rapid prototyping.
 - Syntax that is simple and concise.
 - Focused on flexibility, allowing paradigms to be mixed as needed for the task at hand.
 - Can run on any system that supports c++ 14 or higher.
+## Under the Hood
+- Easy to understand code base.
+- Simple and modular object-oriented design that can very easily be extended and modified.
