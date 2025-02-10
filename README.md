@@ -16,5 +16,5 @@ A lightweight programming language designed for simplicity, flexibility, and eas
 - Syntax that is simple and concise.
 - Focused on flexibility, and being able to support many paradigms.
 ## Under the Hood
-- Implimented in c++ 14 because it is compiled and has low level memory management.
+- Implimented in c++ 14.
 - Easy to understand code base with a simple and modular class-based design that can very easily be extended and modified.
