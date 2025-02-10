@@ -14,7 +14,7 @@ A lightweight programming language designed for simplicity, flexibility, and eas
 ## Key Characteristics
 - Designed to allow rapid prototyping.
 - Syntax that is simple and concise.
-- Focused on flexibility, allowing paradigms to be mixed as needed, and even allowing being able to support other paradigms like OOP.
+- Focused on flexibility, and being able to support many paradigms.
 ## Under the Hood
 - Implimented in c++ 14 because it is compiled and has low level memory management.
 - Easy to understand code base with a simple and modular class-based design that can very easily be extended and modified.
